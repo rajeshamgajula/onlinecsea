@@ -1,3 +1,5 @@
 This is my first file in to the git repository.
 
 In this class we will be going to learn some git commands. 
+
+firs commen is git init
